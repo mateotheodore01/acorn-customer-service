@@ -1,5 +1,5 @@
-project = '-'
-author = 'Your Name'
+project = 'Acorn Customer Service'
+author = 'Denial'
 release = '1.0'
  
 extensions = []
